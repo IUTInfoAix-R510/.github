@@ -30,7 +30,7 @@ le concevoir, l'interroger efficacement et l'intégrer dans une application.
 | TP | Thème | Séances | Cours | Notation |
 |----|-------|---------|-------|----------|
 | [**TP1**](https://iutinfoaix-r510.github.io/tp1/) | MongoDB : documents, CRUD, documents imbriqués, initiation à l'agrégation | S1-S2 (8 h) | [S1](https://iutinfoaix-r510.github.io/cours/s1-ressource-et-mongodb.html), [S2](https://iutinfoaix-r510.github.io/cours/s2-imbrication-tableaux-agregation.html) | ✅ autograding |
-| **TP2** | MongoDB : requêtes avancées, pipeline d'agrégation, index | S3 (4 h) | à venir | ✅ autograding |
+| [**TP2**](https://iutinfoaix-r510.github.io/tp2/) | MongoDB : requêtes avancées, pipeline d'agrégation, index, pilote Java | S3 (4 h) | [S3](https://iutinfoaix-r510.github.io/cours/s3-requetes-avancees-agregation-index.html) | ✅ autograding |
 | **TP3** | MongoDB : modélisation, embedding et référencement, patterns de conception | S4 (4 h) | à venir | ✅ autograding |
 | **TP4** | Neo4j : du relationnel au graphe, Cypher, chemins, recommandation | S5 (4 h) | à venir | ✅ autograding |
 | **Projet** | Application en équipe (Java, Javalin, MongoDB ; bonus Neo4j) | S6-S8 (12 h) | à venir | 👥 équipe, pondération individuelle |
