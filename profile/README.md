@@ -5,7 +5,7 @@
 Matériel pédagogique du module **R5.Real.10 - Nouveaux paradigmes de base de données** :
 modèle document avec MongoDB (requêtes, agrégation, modélisation, index),
 modèle graphe avec Neo4j et Cypher, et un projet d'application Java
-(Javalin + MongoDB) sur des données de capteurs.
+(Javalin + MongoDB).
 
 L'objectif : savoir **choisir le modèle de données adapté aux requêtes**,
 le concevoir, l'interroger efficacement et l'intégrer dans une application.
@@ -32,7 +32,7 @@ le concevoir, l'interroger efficacement et l'intégrer dans une application.
 | **TP2** | MongoDB : requêtes avancées, pipeline d'agrégation, index | S3 (4 h) | ✅ autograding |
 | **TP3** | MongoDB : modélisation, embedding et référencement, patterns de conception | S4 (4 h) | ✅ autograding |
 | **TP4** | Neo4j : du relationnel au graphe, Cypher, chemins, recommandation | S5 (4 h) | ✅ autograding |
-| **Projet** | SteamCity : plateforme de capteurs (Java, Javalin, MongoDB ; bonus Neo4j) | S6-S8 (12 h) | 👥 équipe + individuel |
+| **Projet** | Application en équipe (Java, Javalin, MongoDB ; bonus Neo4j) | S6-S8 (12 h) | 👥 équipe, pondération individuelle |
 
 Pour le calendrier, les modalités de rendu et le barème, voir le
 [syllabus](https://github.com/IUTInfoAix-R510/syllabus).
