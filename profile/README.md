@@ -1,4 +1,4 @@
-# Refonte 2026 - MongoDB, Neo4j, NoSQL
+# R5.Real.10 - Nouveaux paradigmes de base de données
 
 **BUT Informatique - 3ème année (S5, parcours A) - IUT d'Aix-Marseille**
 
